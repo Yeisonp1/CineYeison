@@ -11908,9 +11908,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PILAR\\OneDrive\\Escritorio\\NET\\Github\\CineYei\\cineSistem\\Cine.csproj",
-      "projectName": "Cine",
-      "projectPath": "C:\\Users\\PILAR\\OneDrive\\Escritorio\\NET\\Github\\CineYei\\cineSistem\\Cine.csproj",
+      "projectUniqueName": "C:\\Users\\PILAR\\OneDrive\\Escritorio\\NET\\Github\\CineYei\\cineSistem\\Cinecito.csproj",
+      "projectName": "Cinecito",
+      "projectPath": "C:\\Users\\PILAR\\OneDrive\\Escritorio\\NET\\Github\\CineYei\\cineSistem\\Cinecito.csproj",
       "packagesPath": "C:\\Users\\PILAR\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\PILAR\\OneDrive\\Escritorio\\NET\\Github\\CineYei\\cineSistem\\obj\\",
       "projectStyle": "PackageReference",

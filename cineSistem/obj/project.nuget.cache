@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ydhJ/jIjhsZTGQXRkGu5so2Xt73CG0mZWLsa7JOaP1X6+AWqRud6F7b6Q4me7CtoNQUYBBtPlLd0ICx4tN+BvQ==",
+  "dgSpecHash": "3dd2OTKWDy+W2ekeZhHzyA7Z03+LzD5beJAot0fjibpDtHUjgp3FoYq3aWB79/Ws9VsHjR+gs77v/Xj/KzMzmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PILAR\\OneDrive\\Escritorio\\NET\\Github\\CineYei\\cineSistem\\Cine.csproj",
+  "projectFilePath": "C:\\Users\\PILAR\\OneDrive\\Escritorio\\NET\\Github\\CineYei\\cineSistem\\Cinecito.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PILAR\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\PILAR\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
